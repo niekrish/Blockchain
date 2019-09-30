@@ -1,0 +1,9 @@
+//Nikhil Krishna
+//niekrish
+//CMPS-12B/M
+//README
+
+Implements Block and Blockchain.  Block has a field to store the previous hash value which can be used by Blockchain to validate the chain.  A simple additive hash is used here, a better hash function may be required in the future.
+
+File list:
+README Makefile Block.c Blockchain.c BlockchainClient.c Block.h Blockchain.h
